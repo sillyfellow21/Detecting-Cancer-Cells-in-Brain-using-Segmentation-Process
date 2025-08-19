@@ -45,3 +45,11 @@ Predictions for slices shown in notebook. Model evaluates on validation set.
 ## License
 
 MIT
+
+
+Did this project in Spring 2024 for my CSE438 course with my teammates : Md Ashiq Ul Islam Sajid & Rumaysa Mumtahana
+
+
+
+
+
